@@ -1,0 +1,4 @@
+O primeiro passo da instalação do Arduino foi feito atráves do site, que forneceu o download dos arquivos necessários;
+O segundo passo foi a extração desses arquivos, que demorou de 1 a 3 minutos.
+Ao clicar no programa extraido, ele abre e começa a executar a instalação interna de alguns drivers que possiblitam seu funcionamento.
+Após isso, um cabo USB foi conectado ao PC e ao Arduino, que imediatamente começou a piscar yma luz, sinalizando seu bom funcionamento.
